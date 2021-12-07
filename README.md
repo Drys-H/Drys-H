@@ -1,5 +1,5 @@
-Hi ! My name is Drys, I'm an enthusiast learner! 
-Everything start by self-taught then courses to get further into my center of interest. This curiosity leads me to get seriously into coding.
+Hi ! My name is Drys, I'm an enthusiast learner.
+I start self-taught and realised that I want to do that for a living !
 
 Aspiring data scientists ( data analytics - data engineer ) / python developer, with a passion for creative work and collaborative projects. 
 Interest for space research, ecology, anthropology and sociology. 
