@@ -3,7 +3,7 @@ Everything start by self-taught then courses to get further into my center of in
 
 Aspiring data scientists ( data analytics - data engineer ) / python developer, with a passion for creative work and collaborative projects. 
 Interest for space research, ecology, anthropology and sociology. 
-My goal will be to help researcher9other?) in they work to achieve better and more efficient results.
+My goal will be to help researchers in they work to achieve better and more efficient results.
 Use to work as a model/costume maker for 8y.
 
 Currently working on How to read Sign Languages with Deep Learning. 
